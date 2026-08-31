@@ -1,1 +1,2 @@
 oppgaven er å bli god i git
+Man må øve for å bli god, men må man lage 10000 repositories for å være ekspert? 
