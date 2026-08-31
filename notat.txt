@@ -1,0 +1,1 @@
+vi har lært å opprette repo i git, hva et repo er for noe og hvordan oppdatere repoet med ny kode. 
